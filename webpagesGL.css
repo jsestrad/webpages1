@@ -1,0 +1,23 @@
+/*
+ *Name: Juan Sebastian Estrada
+ *UnityID: 200677687
+ *Date: 02/16/2026
+ *Assignment: Guided Lab 4
+ *Description: Guided lab assignment, about me webpage
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #6f9b29;
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px
+}
+
